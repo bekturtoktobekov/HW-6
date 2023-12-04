@@ -74,5 +74,4 @@ class Tea:
 
 
 beko = Tea('beko')
-# beko.start()
-# beko._stop()
+
